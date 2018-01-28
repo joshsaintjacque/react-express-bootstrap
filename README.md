@@ -19,3 +19,4 @@ at http://localhost:5000.
 - [ ] CSS preprosessor
 - [ ] Database
 - [ ] Backend testing
+- [ ] Client-side routing
