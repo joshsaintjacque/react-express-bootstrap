@@ -1,0 +1,2 @@
+export const GET_EXAMPLES = "GET_EXAMPLES";
+export const UPDATE_EXAMPLE = "UPDATE_EXAMPLE";
