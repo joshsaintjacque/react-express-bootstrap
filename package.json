@@ -1,0 +1,22 @@
+{
+  "name": "react-express-bootstrap",
+  "version": "1.0.0",
+  "description": "Boilerplate for getting started with React and Express.",
+  "main": "server.js",
+  "scripts": {
+    "setup": "npm install && cd client && npm install",
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "author": "Josh Saint Jacque",
+  "license": "MIT",
+  "dependencies": {
+    "concurrently": "^3.5.1",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.11"
+  }
+}
