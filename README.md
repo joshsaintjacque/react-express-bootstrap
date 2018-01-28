@@ -16,6 +16,6 @@ By default, you can access the frontend at http://localhost:3000 and the api
 at http://localhost:5000.
 
 ## What's next
-[ ] CSS preprosessor
-[ ] Database
-[ ] Backend testing
+- [ ] CSS preprosessor
+- [ ] Database
+- [ ] Backend testing
